@@ -1,0 +1,10 @@
+streamlit
+streamlit_option_menu
+firebase_admin
+
+streamlit
+google-cloud-aiplatform
+google-generativeai
+pdfplumber
+Pillow
+
